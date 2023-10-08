@@ -18,6 +18,7 @@
         android:textColor="#333"
         tools:layout_editor_absoluteX="269dp"
         tools:layout_editor_absoluteY="302dp" />
+        //contacting information
     <EditText
         android:id="@+id/editTextUsername"
         android:layout_width="match_parent"
@@ -29,6 +30,7 @@
         android:inputType="textEmailAddress"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="174dp" />
+        ////added phone number
 
     <EditText
         android:id="@+id/editTextPassword"
@@ -42,6 +44,7 @@
         android:layout_margin="10dp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="245dp" />
+         //edited details
 
     <EditText
         android:id="@+id/editTextMessage"
